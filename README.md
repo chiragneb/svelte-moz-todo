@@ -1,6 +1,6 @@
 MDN svelte tutorial implementation
 
-![screenshot](https://ibb.co/C5mzvn1)
+![screenshot](https://chirag-neb.imgbb.com/)
 
 ```bash
 npx degit sveltejs/template svelte-app
