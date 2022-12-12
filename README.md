@@ -1,7 +1,6 @@
 MDN svelte tutorial implementation
 
- ![SCR-20221212-ink](https://user-images.githubusercontent.com/20181642/206995088-2b901370-ddbb-4081-8a34-738e55d4eef0.png)
-<img src="https://user-images.githubusercontent.com/20181642/206995088-2b901370-ddbb-4081-8a34-738e55d4eef0.png" alt="drawing" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/20181642/206995088-2b901370-ddbb-4081-8a34-738e55d4eef0.png" alt="screenshot" width="600" height="600" />
 
 ```bash
 npx degit sveltejs/template svelte-app
